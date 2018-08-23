@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8098650261",
+    "firebase_url": "https://fir-app-accc0.firebaseio.com",
+    "project_id": "fir-app-accc0",
+    "storage_bucket": "fir-app-accc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8098650261:android:cc0e9ee4aa3fc2e2",
+        "android_client_info": {
+          "package_name": "com.draw.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8098650261-3bt7l32u74oa9ulradoe7akjbpsiof3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.draw.firebaseapp",
+            "certificate_hash": "1b98609d2bf2203aeba0a29461aa918a8d1b6c16"
+          }
+        },
+        {
+          "client_id": "8098650261-86eot2bgga0s9meraa1iut521gnm1ogr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIquBynAehaqnTvbkratM_5mzqmLveg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8098650261-86eot2bgga0s9meraa1iut521gnm1ogr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
